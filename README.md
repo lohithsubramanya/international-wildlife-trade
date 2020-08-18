@@ -1,5 +1,3 @@
-<img src="https://bit.ly/2VnXWr2" alt="Ironhack Logo" width="100"/>
-
 # Analysis of international wildlife trade using CITES data
 
 Maaike de Jong
