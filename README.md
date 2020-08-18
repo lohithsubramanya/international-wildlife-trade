@@ -1,7 +1,6 @@
-# Analysis of international wildlife trade 
-## using CITES data
+# Analysis of international wildlife trade using CITES data
 
-Maaike de Jong. 
+Maaike de Jong  
 April 2020
 
 ## Content
