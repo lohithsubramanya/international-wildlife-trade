@@ -7,4 +7,3 @@ I'm using the [CITES trade database](https://trade.cites.org/) as data source. T
 * Purpose: All purposes
 * Trade Terms: Liv - Live
 * Taxon: Mammalia
-
