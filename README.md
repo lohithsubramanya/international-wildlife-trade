@@ -4,14 +4,14 @@ Maaike de Jong
 April 2020
 
 ## Content
-- [Description](#description)
+- [Introduction](#introduction)
 - [Questions](#questions)
 - [Data](#data)
 - [Links](#links)
 
-<a name="description"></a>
+<a name="introduction"></a>
 
-## Description
+## Introduction
 Here I investigate the international wildlife trade, with a focus on the trade in mammals. The wildlife trade - such as trade in ivory, or pets - is the number one cause of animal extinction, together with habitat destruction caused by land development. A recent study estimates that at least 1/5th of all vertebrate species is being traded (e.g. see [this BBC article](https://www.bbc.com/news/science-environment-49904668)). 
 
 Wildlife trade has many negative effects, with the most important ones being:
