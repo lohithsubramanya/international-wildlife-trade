@@ -32,7 +32,7 @@ The main research questions I investigate are:
 <a name="data"></a>
 
 ## Data  
-I'm using the [CITES trade database](https://trade.cites.org/) as source for my data. This database contains more than 20 million records of trade and is openly accessible. On the website of the database a selection of data can be made for download. I selected my data with the following parameters: 
+I'm using the CITES trade database as source for my data. This database contains more than 20 million records of trade and is openly accessible. On the website of the database a selection of data can be made for download. I selected my data with the following parameters: 
 * Year range: 2000-2019
 * Source: W - Wild
 * Exporting countries: All countries
@@ -40,3 +40,8 @@ I'm using the [CITES trade database](https://trade.cites.org/) as source for my 
 * Purpose: All purposes
 * Trade Terms: Liv - Live
 * Taxon: Mammalia
+
+<a name="links"></a>
+
+## Links
+[CITES trade database](https://trade.cites.org/)
