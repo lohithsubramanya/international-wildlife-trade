@@ -27,7 +27,7 @@ I focus on the trade in endangered mammals as listed by CITES, the Convention on
 The main research questions I investigate are:
 * Which wild mammal groups and species are traded the most (in terms of live animals taken from the wild)?
 * What are the main purposes for trade of these animals?
-* How has the trade changed over the past two decades (2000-2018)? 
+* How has the trade changed over the past two decades (2000-2019)? 
 
 <a name="data"></a>
 
