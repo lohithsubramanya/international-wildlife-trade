@@ -12,7 +12,7 @@ April 2020
 <a name="description"></a>
 
 ## Description
-Here I investigate the international wildlife trade, with a focus on the trade in mammals. The wildlife trade - such as trade in ivory, or pets - is the number one cause of animal extinction, together with habitat destruction caused by land development. A recent study estimates that at least 1/5th of all vertebrate species is being traded (see this [article](https://www.bbc.com/news/science-environment-49904668)). 
+Here I investigate the international wildlife trade, with a focus on the trade in mammals. The wildlife trade - such as trade in ivory, or pets - is the number one cause of animal extinction, together with habitat destruction caused by land development. A recent study estimates that at least 1/5th of all vertebrate species is being traded (e.g. see this [BBC article](https://www.bbc.com/news/science-environment-49904668)). 
 
 Wildlife trade has many negative effects, with the most important ones being:
 * Decline and extinction of populations
